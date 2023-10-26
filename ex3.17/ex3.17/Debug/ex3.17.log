@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\c_code_112_1\ex3.17\ex3.17\main.cpp(45): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ex3.17.vcxproj -> D:\c_code_112_1\ex3.17\Debug\ex3.17.exe
