@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jin yi\source\repos\ex6.19\ex6.19\source.cpp(7): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  ex6.19.vcxproj -> C:\Users\Jin Yi\source\repos\ex6.19\Debug\ex6.19.exe

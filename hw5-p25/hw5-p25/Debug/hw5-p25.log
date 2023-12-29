@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jin yi\source\repos\hw5-p25\hw5-p25\source.cpp(17): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  hw5-p25.vcxproj -> C:\Users\Jin Yi\source\repos\hw5-p25\Debug\hw5-p25.exe
