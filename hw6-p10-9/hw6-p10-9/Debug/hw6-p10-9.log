@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jin yi\source\repos\hw6-p10-9\hw6-p10-9\source.cpp(34): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  hw6-p10-9.vcxproj -> C:\Users\Jin Yi\source\repos\hw6-p10-9\Debug\hw6-p10-9.exe
